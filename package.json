@@ -1,0 +1,23 @@
+{
+  "name": "techstuff-publisher",
+  "version": "1.0.0",
+  "description": "Post given news (with optinal title) to facebook group and slack channel.",
+  "main": "post-news.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.dafiti.com.br/"
+  },
+  "author": "Dafiti",
+  "license": "GPL",
+  "dependencies": {
+    "eslint-config-airbnb": "^14.1.0",
+    "node-env-file": "^0.1.8",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
